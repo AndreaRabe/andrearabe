@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=8E0238&width=435&lines=Hello%F0%9F%91%8B%2C++I'm+Rabemanantsoa+Nantenaina+Andr%C3%A9a;%F0%9F%A4%99Student+in+software+and+database+engineering+at+ENI+Fianarantsoa%F0%9F%A4%99;%E2%9C%8ANever+give+up.+Today+is+hard%F0%9F%98%96%2C+tomorrow+will+be+worse%F0%9F%98%A5%2C+;but+the+day+after+tomorrow+will+be+sunshine%E2%98%80%EF%B8%8F" alt="Typing SVG" /></a>
+<<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=8E0238&width=435&lines=Hello%F0%9F%91%8B%2C++I'm+Rabemanantsoa+Nantenaina+Andr%C3%A9a;Student+in+software+and+database+engineering+at+ENI+Fianarantsoa;%F0%9F%A5%B0Coding+vibes%F0%9F%A5%B0;%E2%9D%A4%EF%B8%8FI+wish+the+best+for+you%F0%9F%A5%B0" alt="Typing SVG" /></a>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndreaRabe&show_icons=true&theme=synthwave&hide_border=true" alt="Rabe's Github stats" /></p>
 
