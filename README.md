@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=8E0238&width=200&lines=Hello%F0%9F%91%8B%2C++I'm+Rabemanantsoa+Nantenaina+Andr%C3%A9a;Student+in+software+and+database+engineering+at+ENI+Fianarantsoa;%F0%9F%A5%B0Coding+vibes%F0%9F%A5%B0;%E2%9D%A4%EF%B8%8FI+wish+the+best+for+you%F0%9F%A5%B0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=8E0238&width=549&lines=Hello%F0%9F%91%8B%2C++I'm+Rabemanantsoa+Nantenaina+Andr%C3%A9a;Student+in+software+and+database+engineering+at+ENI+Fianarantsoa%F0%9F%A4%99;+++++++++++++++++%F0%9F%A5%B0Coding+Vibes%E2%98%98%EF%B8%8F;+++++++++++%E2%9D%A4%EF%B8%8FI+wish+the+best+for+you%F0%9F%98%98" alt="Typing SVG" /></a>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndreaRabe&show_icons=true&theme=synthwave&hide_border=true" alt="Rabe's Github stats" /></p>
 
