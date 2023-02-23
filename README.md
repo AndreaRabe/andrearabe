@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=3500&pause=1000&color=6423D2&width=1000&center=true&lines=Hi%F0%9F%91%8B%2C+I'm+Rabemanantsoa+Nantenaina+Andréa+%F0%9F%98%81;Student+in+software+and+database+engineering+at+ENI+Fianarantsoa+%F0%9F%98%8E;%F0%9F%98%8C+Learn%2C+Code++and+Share+%F0%9F%98%8C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zathira&size=25&duration=3500&pause=1000&color=6423D2&width=1000&center=true&lines=Hi%F0%9F%91%8B%2C+I'm+Rabemanantsoa+Nantenaina+Andréa+%F0%9F%98%81;Student+in+software+and+database+engineering+at+ENI+Fianarantsoa+%F0%9F%98%8E;%F0%9F%98%8C+Learn%2C+Code++and+Share+%F0%9F%98%8C" alt="Typing SVG" /></a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndreaRabe&show_icons=true&theme=tokyonight&hide_border=true" alt="Rabe's Github stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndreaRabe&show_icons=true&theme=synthwave&hide_border=true" alt="Rabe's Github stats" /></p>
 
 - 🌱 I’m currently learning **Java, Python, Node.js and Javascript**
 
