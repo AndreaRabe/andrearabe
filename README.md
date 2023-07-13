@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndreaRabe&show_icons=true&theme=synthwave&hide_border=true" alt="Rabe's Github stats" /></p>
 
-- 🌱 I’m currently learning **Java, Python, Node.js and Javascript**
+- 🌱 I’m currently learning **Java, Python and Javascript**
 
 - 📫 How to reach me **nantenainaandrea2@gmail.com**
 
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaRabe&layout=compact&theme=dracula&hide_border=true" alt="Top langs" /></p>
@@ -28,12 +29,15 @@
 <h3 align="left">Framework and Libraries</h3>
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 </p>
 
 <h3 align="left">Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
 <h3 align="left">Databases</h3>
@@ -41,6 +45,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src=="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ## Stats
