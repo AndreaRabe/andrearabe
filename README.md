@@ -50,7 +50,3 @@
 ## Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndreaRabe&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Rabe's github stats" /></p>
-
-### Visitor count
-
-<img src="https://profile-counter.glitch.me/AndreaRabe/count.svg" />
