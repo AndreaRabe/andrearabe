@@ -53,4 +53,4 @@
 
 ### Visitor count
 
-<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
+<img src="https://profile-counter.glitch.me/AndreaRabe/count.svg" />
