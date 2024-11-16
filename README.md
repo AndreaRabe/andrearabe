@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaRabe&layout=compact&theme=dracula&hide_border=true" alt="Top langs" /></p>
-
 <h3 align="left">Framework and Libraries</h3>
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -39,7 +37,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 <h3 align="left">Databases</h3>
@@ -50,9 +48,13 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+---
+
 ## Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndreaRabe&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Rabe's github stats" /></p>
+
+---
 
 ### Visitor count
 
