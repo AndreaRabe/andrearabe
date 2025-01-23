@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=8E0238&width=1000&center=true&lines=Hello%F0%9F%91%8B%2C++I'm+Rabemanantsoa+Nantenaina+Andr%C3%A9a;Student+in+software+and+database+engineering+at+ENI+Fianarantsoa%F0%9F%A4%99;+%F0%9F%A5%B0Coding+Vibes%E2%98%98%EF%B8%8F;" alt="Typing SVG" /></a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndreaRabe&show_icons=true&theme=synthwave&hide_border=true" alt="Rabe's Github stats" /></p>
-
 - 🌱 I’m currently learning **Python, React and Machine Learning**
 
 - 📫 How to reach me **nantenainaandrea2@gmail.com**
@@ -47,12 +45,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
----
-
-## Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndreaRabe&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Rabe's github stats" /></p>
 
 ---
 
