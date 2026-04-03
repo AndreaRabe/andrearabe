@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **nantenainaandrea2@gmail.com**
 
-- 🌐 Portfolio : [My Portfolio](https://portfolio-nantenaina-andrea.netlify.app/)
+- 🌐 Portfolio : [My Portfolio]([https://portfolio-nantenaina-andrea.netlify.app/](https://andrearabe.github.io/portfolio-2026/))
 
 - ⚡ Fun fact **I love playing games and listenning music**
 
